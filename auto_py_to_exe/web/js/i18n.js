@@ -3,6 +3,7 @@ const translationMap = {
         title: {
             scriptLocation: {
                 en: 'Script Location',
+                pl: 'Lokalizacja skryptu',
                 zh: '脚本位置',
                 zh_tw: '腳本位置',
                 ru: 'Расположение скрипта',
@@ -19,6 +20,7 @@ const translationMap = {
             },
             oneFile: {
                 en: 'Onefile',
+                pl: 'Jeden plik',
                 zh: '单文件',
                 zh_tw: '單檔案',
                 ru: 'Один файл',
@@ -35,6 +37,7 @@ const translationMap = {
             },
             consoleWindow: {
                 en: 'Console Window',
+                pl: 'Konsola Winowsa',
                 zh: '控制台窗口',
                 zh_tw: '控制台視窗',
                 ru: 'Консольное приложение',
@@ -51,6 +54,7 @@ const translationMap = {
             },
             icon: {
                 en: 'Icon',
+                pl: 'Ikona',
                 zh: '图标',
                 zh_tw: '圖示',
                 ru: 'Иконка',
@@ -67,6 +71,7 @@ const translationMap = {
             },
             additionalFiles: {
                 en: 'Additional Files',
+                pl: 'Dodatkowe pliki',
                 zh: '附加文件',
                 zh_tw: '附加檔案',
                 ru: 'Дополнительные файлы',
